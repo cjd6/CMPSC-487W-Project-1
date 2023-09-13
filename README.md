@@ -1,5 +1,7 @@
 Casey Detwiler
 
+cjd6058@psu.edu
+
 CMPSC 487W
 
 Project 1
@@ -9,6 +11,8 @@ DataBase System: SQLite
 Programming Language: Java
 
 Demonstration/explination of features can be found in Demonstration.pdf
+
+***If you have any problems running this program, please let me know. I'm new to github and wouldn't be surprised if I made a mistake.***
 
 The SQLite driver is included. All the following must be present for the program to run:
 
