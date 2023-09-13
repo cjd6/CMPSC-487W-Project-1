@@ -1,7 +1,11 @@
 Casey Detwiler
+
 CMPSC 487W
+
 Project 1
+
 DataBase System: SQLite
+
 Programming Language: Java
 
 Demonstration/explination of features can be found in Demonstration.pdf
@@ -23,5 +27,7 @@ loading the given .sqlite file
 
 References:
 UIs created with SceneBuilder
+
 https://jenkov.com/tutorials/javafx/listview.html
+
 Krish Nair, for some help setting up the database & getting the SQLite driver working
